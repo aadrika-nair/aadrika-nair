@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Aadrika 
 
-<!--
-**aadrika-nair/aadrika-nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an 8th grader learning how to code  
+💻 Currently working with Python!
 
-Here are some ideas to get you started:
+##🚀 What I'm building
+- GUI apps (Tkinter)
+- Small games
+- School-related tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm learning
+- Python
+- Problem solving
+- How to build real projects
+
+## 🎯 Goals
+- Participate in Hackathons
+- Go to a UC for college!
+

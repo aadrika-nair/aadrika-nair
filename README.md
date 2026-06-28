@@ -1,12 +1,11 @@
 ## Hi, I'm Aadrika 
 
-🎓 I'm an 8th grader learning how to code  
+🎓 I'm a 9th grader learning how to code  
 💻 Currently working with Python!
 
 ##🚀 What I'm building
 - GUI apps (Tkinter)
 - Small games
-- School-related tools
 
 ## 🌱 What I'm learning
 - Python
